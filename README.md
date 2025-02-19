@@ -9,7 +9,7 @@ caracter - Apenas uma letra </br>
 cadeia - Texto </br>
 cost - Uma variavel que nao pode ter seu valor alterado </br>
 
-Operadores aritimeticos: </br>
+<h1>Operadores aritimeticos:</h1> </br>
 "+" - Soma </br>
 "-" - Subtração </br>
 "/" - Divisão </br>
