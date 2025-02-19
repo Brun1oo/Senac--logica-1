@@ -9,34 +9,34 @@ caracter - Apenas uma letra </br>
 cadeia - Texto </br>
 cost - Uma variavel que nao pode ter seu valor alterado </br>
 
-Operadores aritimeticos 
+Operadores aritimeticos: </br>
 "+" - Soma </br>
 "-" - Subtração </br>
 "/" - Divisão </br>
 "*" - Multiplição </br>
 "%" - Módulo </br>
 
-Operadores relacionais 
-== - Igual </br> 
-!= - Diferente </br>
-< = Menor </br>
-> = Maior </br>
-<= - Menor igual </br>
->= - Maior igual </br>
+Operadores relacionais: </br>
+"==" - Igual </br> 
+"!=" - Diferente </br>
+"<" = Menor </br>
+">" = Maior </br>
+"<=" - Menor igual </br>
+">=" - Maior igual </br>
 
-Operadores lógicos 
-Os operadores lógicos servem para colocar 'condições' dentro de uma 'função'. Exemplos:
-E - As das duas condições devem ser verdadeiras (idade>= 18 e genero == feminino)
-OU - Uma duas condições devem ser verdadeiras (idade>= 18 ou genero == feminino)
-NAO - O não troca o resultado final, transformando no oposto dele 
+Operadores lógicos: </br>
+Os operadores lógicos servem para colocar 'condições' dentro de uma 'função'. Exemplos: </br>
+E - As das duas condições devem ser verdadeiras (idade>= 18 e genero == feminino). </br>
+OU - Uma duas condições devem ser verdadeiras (idade>= 18 ou genero == feminino). </br>
+NAO - O não troca o resultado final, transformando no oposto dele. </br>
 
-Comando leia 
-O comando leia recebe um dado externo e armazena dentro de uma variavel
+Comando leia: </br>
+O comando leia recebe um dado externo e armazena dentro de uma variavel. </br>
 
-Estrutura condicional se / senao se / senao
-O comando SE permite executar um bloco de código se uma determinada condição for verdadeira
-O comando SENAO SE ela é utilizada quando se deseja verificar várias condições distintas, executando um bloco de código correspondente à primeira condição verdadeira encontrada, ou seja, se o SE for falso ele vai verificar se o SENAO SE é verdadeiro
-O comando SENAO é o resto do bloco de comando, quando todos os outros blocos ja foram verificados, ele vai dar a resposta que tiver no SENAO para o usuario 
+Estrutura condicional se / senao se / senao: </br>
+O comando SE permite executar um bloco de código se uma determinada condição for verdadeira. </br>
+O comando SENAO SE ela é utilizada quando se deseja verificar várias condições distintas, executando um bloco de código correspondente à primeira condição verdadeira encontrada, ou seja, se o SE for falso ele vai verificar se o SENAO SE é verdadeiro. </br>
+O comando SENAO é o resto do bloco de comando, quando todos os outros blocos ja foram verificados, ele vai dar a resposta que tiver no SENAO para o usuario. </br>
 
 ---
     programa {
