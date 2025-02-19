@@ -2,21 +2,21 @@
 
 Algumas anotações sobre logica de programação com portugol feita no senac. </br>
 
-Variaveis: 
+<h3>Variaveis:</h3> </br>
 real - Numero decimal </br>
 inteiro - Numero inteiros </br>
 caracter - Apenas uma letra </br>
 cadeia - Texto </br>
 cost - Uma variavel que nao pode ter seu valor alterado </br>
 
-<h1>Operadores aritimeticos:</h1> </br>
+<h3>Operadores aritimeticos:</h3> </br>
 "+" - Soma </br>
 "-" - Subtração </br>
 "/" - Divisão </br>
 "*" - Multiplição </br>
 "%" - Módulo </br>
 
-Operadores relacionais: </br>
+<h3>Operadores relacionais:</h3> </br>
 "==" - Igual </br> 
 "!=" - Diferente </br>
 "<" = Menor </br>
@@ -24,16 +24,16 @@ Operadores relacionais: </br>
 "<=" - Menor igual </br>
 ">=" - Maior igual </br>
 
-Operadores lógicos: </br>
+<h3>Operadores lógicos:</h3> </br>
 Os operadores lógicos servem para colocar 'condições' dentro de uma 'função'. Exemplos: </br>
 E - As das duas condições devem ser verdadeiras (idade>= 18 e genero == feminino). </br>
 OU - Uma duas condições devem ser verdadeiras (idade>= 18 ou genero == feminino). </br>
 NAO - O não troca o resultado final, transformando no oposto dele. </br>
 
-Comando leia: </br>
+<h3>Comando leia:</h3> </br>
 O comando leia recebe um dado externo e armazena dentro de uma variavel. </br>
 
-Estrutura condicional se / senao se / senao: </br>
+<h3>Estrutura condicional se / senao se / senao:</h3> </br>
 O comando SE permite executar um bloco de código se uma determinada condição for verdadeira. </br>
 O comando SENAO SE ela é utilizada quando se deseja verificar várias condições distintas, executando um bloco de código correspondente à primeira condição verdadeira encontrada, ou seja, se o SE for falso ele vai verificar se o SENAO SE é verdadeiro. </br>
 O comando SENAO é o resto do bloco de comando, quando todos os outros blocos ja foram verificados, ele vai dar a resposta que tiver no SENAO para o usuario. </br>
