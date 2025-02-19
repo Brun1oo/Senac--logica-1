@@ -1,28 +1,28 @@
 # Senac logica 1
 
-Algumas anotações sobre logica de programação com portugol feita no senac.
+Algumas anotações sobre logica de programação com portugol feita no senac. </br>
 
-Variaveis:
-real - Numero decimal
-inteiro - Numero inteiros
-caracter - Apenas uma letra 
-cadeia - Texto
-cost - Uma variavel que nao pode ter seu valor alterado 
+Variaveis: 
+real - Numero decimal </br>
+inteiro - Numero inteiros </br>
+caracter - Apenas uma letra </br>
+cadeia - Texto </br>
+cost - Uma variavel que nao pode ter seu valor alterado </br>
 
 Operadores aritimeticos 
-+ - Soma
-- - Subtração
-/ - Divisão
-* - Multiplição
-% - Módulo
+"+" - Soma </br>
+"-" - Subtração </br>
+"/" - Divisão </br>
+"*" - Multiplição </br>
+"%" - Módulo </br>
 
 Operadores relacionais 
-== - Igual
-!= - Diferente 
-< = Menor 
-> = Maior
-<= - Menor igual
->= - Maior igual
+== - Igual </br> 
+!= - Diferente </br>
+< = Menor </br>
+> = Maior </br>
+<= - Menor igual </br>
+>= - Maior igual </br>
 
 Operadores lógicos 
 Os operadores lógicos servem para colocar 'condições' dentro de uma 'função'. Exemplos:
