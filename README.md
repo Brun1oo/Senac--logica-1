@@ -3,8 +3,7 @@
 Algumas anotações sobre logica de programação com portugol feita no senac.
 
 
-	programa 
- {
+	programa {
 	funcao inicio()
 	{
 		escreva("Olá Mundo \n")
