@@ -103,7 +103,7 @@ programa {
 	
 	}
      }
-
+````
 ---
 
 ## Exemplos em codigos sobre operadores relacionais, operadores logicos e no final um pequeno programa para verificar o salario.
@@ -162,7 +162,7 @@ programa
 
 	}
     }
-
+````
 ---
 
 ## Exemplos em codigos sobre o comando leia e estrutura condicional. E ao final um pequeno programa sobre velocidade de um carro.
@@ -197,9 +197,4 @@ programa
 			escreva("Voce esta dentro do limite da lei")
 		}
 	}
-    }
-	
-
-
-
-
+    }	
