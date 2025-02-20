@@ -41,7 +41,7 @@ O comando SENAO é o resto do bloco de comando, quando todos os outros blocos ja
 ---
 ## Exemplos em codigos sobre variaveis, concatenar, operadores aritmeticos e um pequeno programa para calcular a nota do aluno. 
 
-```c
+```portugol
 programa {
 	
         funcao inicio()
@@ -108,7 +108,7 @@ programa {
 
 ## Exemplos em codigos sobre operadores relacionais, operadores logicos e no final um pequeno programa para verificar o salario.
 
-```c
+```portugol
 programa
      {
 	
@@ -167,7 +167,7 @@ programa
 
 ## Exemplos em codigos sobre o comando leia e estrutura condicional. E ao final um pequeno programa sobre velocidade de um carro.
 
-```c
+```portugol
 programa
     {
 	
