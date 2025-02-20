@@ -39,7 +39,10 @@ O comando SENAO SE ela é utilizada quando se deseja verificar várias condiçõ
 O comando SENAO é o resto do bloco de comando, quando todos os outros blocos ja foram verificados, ele vai dar a resposta que tiver no SENAO para o usuario. </br>
 
 ---
-    programa {
+## Exemplos em codigos sobre variaveis, concatenar, operadores aritmeticos e um pequeno programa para calcular a nota do aluno. 
+
+```c
+programa {
 	
         funcao inicio()
 	{
@@ -100,8 +103,13 @@ O comando SENAO é o resto do bloco de comando, quando todos os outros blocos ja
 	
 	}
      }
+
 ---
-     programa
+
+## Exemplos em codigos sobre operadores relacionais, operadores logicos e no final um pequeno programa para verificar o salario.
+
+```c
+programa
      {
 	
 	funcao inicio()
@@ -154,8 +162,13 @@ O comando SENAO é o resto do bloco de comando, quando todos os outros blocos ja
 
 	}
     }
+
 ---
-    programa
+
+## Exemplos em codigos sobre o comando leia e estrutura condicional. E ao final um pequeno programa sobre velocidade de um carro.
+
+```c
+programa
     {
 	
 	funcao inicio()
